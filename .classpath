@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.jboss.esb.runtime.classpath/server.supplied/JBoss 4.2 Runtime"/>
+	<classpathentry kind="lib" path="esbcontent/lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="esbcontent/lib/jboss-as-jmx-5.1.0.ga.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
